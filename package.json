@@ -1,0 +1,22 @@
+{
+  "tests": [
+    {
+      "name": "Sanity Test",
+      "score": 2.0,
+      "max_score": 2.0,
+      "visibility": "visible"
+    },
+    {
+      "name": "Edge Test",
+      "score": 3.0,
+      "max_score": 3.0,
+      "visibility": "visible"
+    },
+    {
+      "name": "Normal Test",
+      "score": 0.0,
+      "max_score": 3.0,
+      "visibility": "after_published"
+    }
+  ]
+}

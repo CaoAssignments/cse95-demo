@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+# Set up autograder files, delete
+cp /autograder/submission/pa1.py /autograder/source/pa1.py
+
+# Run the autograder
+cd /autograder/source
+python3 autograder.py
